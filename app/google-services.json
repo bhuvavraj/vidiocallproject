@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "520543382520",
+    "project_id": "vidiocallproject",
+    "storage_bucket": "vidiocallproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520543382520:android:adf170f74a0656ad23440d",
+        "android_client_info": {
+          "package_name": "com.example.vidiocallproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520543382520-6vem491ob9nb3dbp5dojphvtegvs3hap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkVXFVKbgvnt9j9ClErhHA6ONoqzys8E0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520543382520-6vem491ob9nb3dbp5dojphvtegvs3hap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
